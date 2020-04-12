@@ -5,4 +5,4 @@
 Shared components of SCADA
 
 ### Tags
-[Groovy, Spring Boot EJB]
+[Groovy]
